@@ -12,3 +12,12 @@ CREATE TABLE ejemplo(
 )
 
 
+
+
+
+
+
+
+
+
+
