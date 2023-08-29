@@ -12,3 +12,8 @@ CREATE TABLE ejemplo(
 )
 
 
+
+
+
+
+
